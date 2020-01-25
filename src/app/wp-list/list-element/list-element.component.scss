@@ -1,0 +1,17 @@
+.sps-list-element-container {
+  display: flex;
+  align-content: center;
+
+  .sps-list-element-img {
+    img {
+      width: 50px;
+    }
+    margin-right: 10px;
+  }
+
+  .sps-list-element-title {
+    display: flex;
+    align-items: center;
+  }
+
+}

@@ -1,0 +1,305 @@
+{
+
+  "_embedded": {
+    "author": [
+      {
+        "id": 2,
+        "name": "Alberto Zanellato",
+        "url": "http://www.nordicwalkingpadova.it/",
+        "description": "",
+        "link": "http://www.cartolinedairifugi.it/author/alberto/",
+        "slug": "alberto",
+        "avatar_urls": {
+          "24": "http://2.gravatar.com/avatar/24f3637cb8a564fb7f50a8bcfc58bada?s=24&d=mm&r=g",
+          "48": "http://2.gravatar.com/avatar/24f3637cb8a564fb7f50a8bcfc58bada?s=48&d=mm&r=g",
+          "96": "http://2.gravatar.com/avatar/24f3637cb8a564fb7f50a8bcfc58bada?s=96&d=mm&r=g"
+        },
+        "_links": {
+          "self": [
+            {
+              "href": "http://www.cartolinedairifugi.it/wp-json/wp/v2/users/2"
+            }
+          ],
+          "collection": [
+            {
+              "href": "http://www.cartolinedairifugi.it/wp-json/wp/v2/users"
+            }
+          ]
+        }
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "id": 7405,
+        "date": "2019-12-05T15:44:40",
+        "slug": "597051990-089110",
+        "type": "attachment",
+        "link": "http://www.cartolinedairifugi.it/rifugio/3-alpini-in-vallestretta-rifugio/attachment/597051990-089110/",
+        "title": {
+          "rendered": "3° Alpini in Valle Stretta (Rifugio)"
+        },
+        "author": 2,
+        "caption": {
+          "rendered": "<p>3° Alpini in Valle Stretta (Rifugio)</p>\n"
+        },
+        "alt_text": "3° Alpini in Valle Stretta (Rifugio)",
+        "media_type": "image",
+        "mime_type": "image/jpeg",
+        "media_details": {
+          "width": 2560,
+          "height": 1797,
+          "file": "2018/02/597051990.089110-scaled.jpg",
+          "sizes": {
+            "medium": {
+              "file": "597051990.089110-300x211.jpg",
+              "width": 300,
+              "height": 211,
+              "mime_type": "image/jpeg",
+              "source_url": "http://www.cartolinedairifugi.it/wp-content/uploads/2018/02/597051990.089110-300x211.jpg"
+            },
+            "large": {
+              "file": "597051990.089110-1024x719.jpg",
+              "width": 1024,
+              "height": 719,
+              "mime_type": "image/jpeg",
+              "source_url": "http://www.cartolinedairifugi.it/wp-content/uploads/2018/02/597051990.089110-1024x719.jpg"
+            },
+            "thumbnail": {
+              "file": "597051990.089110-150x150.jpg",
+              "width": 150,
+              "height": 150,
+              "mime_type": "image/jpeg",
+              "source_url": "http://www.cartolinedairifugi.it/wp-content/uploads/2018/02/597051990.089110-150x150.jpg"
+            },
+            "medium_large": {
+              "file": "597051990.089110-768x539.jpg",
+              "width": 768,
+              "height": 539,
+              "mime_type": "image/jpeg",
+              "source_url": "http://www.cartolinedairifugi.it/wp-content/uploads/2018/02/597051990.089110-768x539.jpg"
+            },
+            "1536x1536": {
+              "file": "597051990.089110-1536x1078.jpg",
+              "width": 1536,
+              "height": 1078,
+              "mime_type": "image/jpeg",
+              "source_url": "http://www.cartolinedairifugi.it/wp-content/uploads/2018/02/597051990.089110-1536x1078.jpg"
+            },
+            "2048x2048": {
+              "file": "597051990.089110-2048x1437.jpg",
+              "width": 2048,
+              "height": 1437,
+              "mime_type": "image/jpeg",
+              "source_url": "http://www.cartolinedairifugi.it/wp-content/uploads/2018/02/597051990.089110-2048x1437.jpg"
+            },
+            "sps_big": {
+              "file": "597051990.089110-1400x800.jpg",
+              "width": 1400,
+              "height": 800,
+              "mime_type": "image/jpeg",
+              "source_url": "http://www.cartolinedairifugi.it/wp-content/uploads/2018/02/597051990.089110-1400x800.jpg"
+            },
+            "sps_quad": {
+              "file": "597051990.089110-600x600.jpg",
+              "width": 600,
+              "height": 600,
+              "mime_type": "image/jpeg",
+              "source_url": "http://www.cartolinedairifugi.it/wp-content/uploads/2018/02/597051990.089110-600x600.jpg"
+            },
+            "sps_single": {
+              "file": "597051990.089110-800x500.jpg",
+              "width": 800,
+              "height": 500,
+              "mime_type": "image/jpeg",
+              "source_url": "http://www.cartolinedairifugi.it/wp-content/uploads/2018/02/597051990.089110-800x500.jpg"
+            },
+            "sps_list": {
+              "file": "597051990.089110-100x100.jpg",
+              "width": 100,
+              "height": 100,
+              "mime_type": "image/jpeg",
+              "source_url": "http://www.cartolinedairifugi.it/wp-content/uploads/2018/02/597051990.089110-100x100.jpg"
+            },
+            "full": {
+              "file": "597051990.089110-scaled.jpg",
+              "width": 2560,
+              "height": 1797,
+              "mime_type": "image/jpeg",
+              "source_url": "http://www.cartolinedairifugi.it/wp-content/uploads/2018/02/597051990.089110-scaled.jpg"
+            }
+          },
+          "image_meta": {
+            "aperture": "0",
+            "credit": "",
+            "camera": "",
+            "caption": "",
+            "created_timestamp": "0",
+            "copyright": "",
+            "focal_length": "0",
+            "iso": "0",
+            "shutter_speed": "0",
+            "title": "",
+            "orientation": "0",
+            "keywords": []
+          },
+          "original_image": "597051990.089110.jpg"
+        },
+        "source_url": "http://www.cartolinedairifugi.it/wp-content/uploads/2018/02/597051990.089110-scaled.jpg",
+        "_links": {
+          "self": [
+            {
+              "href": "http://www.cartolinedairifugi.it/wp-json/wp/v2/media/7405"
+            }
+          ],
+          "collection": [
+            {
+              "href": "http://www.cartolinedairifugi.it/wp-json/wp/v2/media"
+            }
+          ],
+          "about": [
+            {
+              "href": "http://www.cartolinedairifugi.it/wp-json/wp/v2/types/attachment"
+            }
+          ],
+          "author": [
+            {
+              "embeddable": true,
+              "href": "http://www.cartolinedairifugi.it/wp-json/wp/v2/users/2"
+            }
+          ],
+          "replies": [
+            {
+              "embeddable": true,
+              "href": "http://www.cartolinedairifugi.it/wp-json/wp/v2/comments?post=7405"
+            }
+          ]
+        }
+      }
+    ],
+    "wp:term": [
+      [
+        {
+          "id": 5,
+          "link": "http://www.cartolinedairifugi.it/category/regioni/piemonte/",
+          "name": "Piemonte",
+          "slug": "piemonte",
+          "taxonomy": "category",
+          "_links": {
+            "self": [
+              {
+                "href": "http://www.cartolinedairifugi.it/wp-json/wp/v2/categories/5"
+              }
+            ],
+            "collection": [
+              {
+                "href": "http://www.cartolinedairifugi.it/wp-json/wp/v2/categories"
+              }
+            ],
+            "about": [
+              {
+                "href": "http://www.cartolinedairifugi.it/wp-json/wp/v2/taxonomies/category"
+              }
+            ],
+            "up": [
+              {
+                "embeddable": true,
+                "href": "http://www.cartolinedairifugi.it/wp-json/wp/v2/categories/20"
+              }
+            ],
+            "wp:post_type": [
+              {
+                "href": "http://www.cartolinedairifugi.it/wp-json/wp/v2/posts?categories=5"
+              }
+            ],
+            "curies": [
+              {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+              }
+            ]
+          }
+        },
+        {
+          "id": 21,
+          "link": "http://www.cartolinedairifugi.it/category/rifugio/",
+          "name": "Rifugio",
+          "slug": "rifugio",
+          "taxonomy": "category",
+          "_links": {
+            "self": [
+              {
+                "href": "http://www.cartolinedairifugi.it/wp-json/wp/v2/categories/21"
+              }
+            ],
+            "collection": [
+              {
+                "href": "http://www.cartolinedairifugi.it/wp-json/wp/v2/categories"
+              }
+            ],
+            "about": [
+              {
+                "href": "http://www.cartolinedairifugi.it/wp-json/wp/v2/taxonomies/category"
+              }
+            ],
+            "wp:post_type": [
+              {
+                "href": "http://www.cartolinedairifugi.it/wp-json/wp/v2/posts?categories=21"
+              }
+            ],
+            "curies": [
+              {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+              }
+            ]
+          }
+        },
+        {
+          "id": 37,
+          "link": "http://www.cartolinedairifugi.it/category/regioni/piemonte/torino/",
+          "name": "Torino",
+          "slug": "torino",
+          "taxonomy": "category",
+          "_links": {
+            "self": [
+              {
+                "href": "http://www.cartolinedairifugi.it/wp-json/wp/v2/categories/37"
+              }
+            ],
+            "collection": [
+              {
+                "href": "http://www.cartolinedairifugi.it/wp-json/wp/v2/categories"
+              }
+            ],
+            "about": [
+              {
+                "href": "http://www.cartolinedairifugi.it/wp-json/wp/v2/taxonomies/category"
+              }
+            ],
+            "up": [
+              {
+                "embeddable": true,
+                "href": "http://www.cartolinedairifugi.it/wp-json/wp/v2/categories/5"
+              }
+            ],
+            "wp:post_type": [
+              {
+                "href": "http://www.cartolinedairifugi.it/wp-json/wp/v2/posts?categories=37"
+              }
+            ],
+            "curies": [
+              {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+              }
+            ]
+          }
+        }
+      ],
+      []
+    ]
+  }
+}

@@ -1,0 +1,25 @@
+<div class="sps-list-container">
+  <div class="sps-toolbar">
+    <div class="sps-search-container">
+      <label for="sps-search">
+        {{findLabel || 'Cerca' }} <input id="sps-search" type="text" [formControl]="filter"/>
+      </label>
+      <div class="sps-lds-ripple" *ngIf="isLoading">
+        <div></div>
+        <div></div>
+      </div>
+    </div>
+    <div class="sps-pagination">
+      <span style="margin-right: 5px;">
+        {{((actualPage$ | async) - 1) * (perPage || 10) + 1 }} - {{ (((actualPage$ | async) * (perPage || 10)) ) > totalItem ? totalItem : (((actualPage$ | async) * (perPage || 10)) ) }} di {{totalItem}}
+      </span>
+      <button class="sps-button sps-prev-button" [disabled]="(actualPage$ | async) <= 1" (click)="prevPage()">Prev</button>
+      <button class="sps-button sps-next-button" [disabled]="(actualPage$ | async) >= totalPages" (click)="nextPage()">Next</button>
+    </div>
+  </div>
+  <ul>
+    <li *ngFor="let post of posts$ | async" class="sps-list-item">
+      <sps-list-element [post]="post"></sps-list-element>
+    </li>
+  </ul>
+</div>
